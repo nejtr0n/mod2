@@ -1,6 +1,6 @@
 package main
 
-import "mod1/pkg"
+import "github.com/nejtr0n/mod1/src/pkg"
 
 func main() {
 	pkg.Func()
